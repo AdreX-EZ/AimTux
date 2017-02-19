@@ -10,6 +10,18 @@ Want to chat or play with other AimTux users? Join us on Gitter!
 
 AimTux is a fully featured internal hack for *CounterStrike : Global Offensive* written in C++.
 
+## Requirements to compile and inject
+A Linux distribution (Ubuntu, Linux Mint, Redhat, Fedora, Debian, anything that is Linux based.)
+
+Latest repository's and repo updates (to download the tools to compile the hack)
+```bash
+sudo apt-get update && sudo apt-get upgrade
+```
+Latest system updates
+```bash
+sudo apt-get dist-upgrade
+```
+...And a good computer that is capable of compiling using at least 2 cores. It's best to use 4 or 8 to make compiling fast and easy.
 
 ## Compiling
 
